@@ -14,7 +14,7 @@ void subsetSum(int arr[], int l, int r, int sum = 0)
     subsetSum(arr, l + 1, r, sum);
 }
 
-int main()
+int main()//driver c
 {
     int arr[] = {4, 3, 5};
     int n = sizeof(arr) / sizeof(arr[0]);
