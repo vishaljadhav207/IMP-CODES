@@ -17,6 +17,7 @@
 //------------------------------------------------------------------
 #include <iostream>  
 // function max available in here
+#include <bits/stdc++.h>
 #include <math.h>
 using namespace std;
 
